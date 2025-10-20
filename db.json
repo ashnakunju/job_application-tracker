@@ -1,0 +1,40 @@
+{
+  "all-application": [
+    {
+      "id": "3b87",
+      "company": "google",
+      "position": "Developer",
+      "status": "Applied",
+      "salary": "30000",
+      "location": "Bangalore",
+      "source": "linkedin"
+    },
+    {
+      "id": "64f3",
+      "company": "EY",
+      "position": "Tester",
+      "status": "Applied",
+      "salary": "20000",
+      "location": "Kochi",
+      "source": "Naukri"
+    },
+    {
+      "id": "67ec",
+      "company": "HTC",
+      "position": "Developer",
+      "status": "Interview",
+      "salary": "40000",
+      "location": "Thiruvanathapuram",
+      "source": "Naukri"
+    },
+    {
+      "id": "eb69",
+      "company": "Amazon",
+      "position": "Trainee",
+      "status": "Rejected",
+      "salary": "15000",
+      "location": "Bangalore",
+      "source": "Glassdoor"
+    }
+  ]
+}
